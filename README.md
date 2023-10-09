@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![](https://komarev.com/ghpvc/?username=lorandblzs)
+![](https://komarev.com/ghpvc/?username=lorandblzs&color=green&style=flat-square)
 
 <!--
 **lorandblzs/lorandblzs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
